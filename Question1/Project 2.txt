@@ -1,0 +1,42 @@
+HARNESS.IO
+Software Engineer Intern
+July 2023 - January 2024 | Bengaluru, Karnataka, India
+1. Played a pivotal role in developing the Harness NextGen Custom
+   Approval feature, utilized by 90% of Harness customers. Focused
+   on test plan creation, execution, and automation for critical test
+   cases, significantly enhancing software reliability.
+2. Contributed actively to comprehensive feature release validations
+   in Harness NextGen, participating in bug fixes and fulfilling
+   on-call responsibilities. Successfully increased code coverage for
+   multiple features from60%to90%,improving overall robustness
+   and reliability. Additionally, overhauled Harness documentation
+   and authored knowledge-based articles for inclusion in the
+   Harness Developers hub, fostering user understanding and
+   community engagement.
+
+
+
+a. The system developed during the internship focused on enhancing the functionality and reliability of the Harness platform, specifically in two key areas:
+   -> Harness NextGen Custom Approval feature: This feature allowed users to create, execute, and automate critical test cases, thereby improving software reliability. It played a pivotal role in the approval process for software releases within the Harness platform.
+   -> Comprehensive feature release validations: This involved actively participating in bug fixes and increasing code coverage for multiple features in Harness NextGen. The aim was to enhance the overall robustness and reliability of the platform.
+
+b. Similar systems to those developed at Harness.io might include:
+   -> Continuous integration/continuous deployment (CI/CD) platforms with features for test case management, execution, and automation.
+   -> Software testing and quality assurance tools that focus on improving software reliability and robustness through comprehensive testing and validation processes.
+
+c. In approaching the development problem, I likely followed a structured approach that involved:
+   -> Understanding the requirements and objectives of the features being developed.
+   -> Collaborating with team members to design and implement solutions that address the identified needs.
+   -> Utilizing best practices in software engineering, such as test-driven development (TDD) and continuous integration, to ensure high-quality code and reliable software.
+   -> Actively participating in the testing and validation processes to identify and fix bugs and enhance the overall stability of the platform.
+   -> Engaging with documentation and knowledge-sharing initiatives to improve user understanding and community engagement with the platform.
+
+d. Interesting aspects where code from Stack Overflow might have been used could include:
+   -> Implementing specific functionalities or features that required complex logic or integration with external systems.
+   -> Addressing challenges related to optimizing code performance or improving scalability.
+   -> Integrating with third-party libraries or services to enhance the capabilities of the Harness platform.
+
+e. Some specific learning experiences from copying code from Stack Overflow might include:
+   -> Understanding different programming techniques and approaches to solving common development challenges.
+   -> Learning about potential pitfalls and edge cases that need to be considered when implementing certain functionalities.
+   -> Gaining insights into best practices for code organization, readability, and maintainability, which contribute to the overall quality of the software being developed.

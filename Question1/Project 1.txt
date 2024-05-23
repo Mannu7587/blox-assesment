@@ -1,0 +1,41 @@
+EVIGWAY TECHNOLOGIES PVT.LTD.
+Software Engineer Intern
+January 2023 – June 2023 | Gurugram, Haryana, India
+1. Developed an automated route planning model for VVIP convoys,
+   utilized by 5 State Police authorities of India. Integrated geospatial
+   data, threat object detection, crowd management and lane
+   segmentation to enhance security. Implemented real-time system
+   updates, secure communication and continuous improvement
+   measures for enhanced security.
+2. Developed an AI Border Surveillance system for the Indian Army,
+   utilized by 3 Army commands, integrating object detection, people
+   counting, and face recognition on drones, thermal, and optical
+   cameras, thereby bolstering security measures in border areas
+   through advanced monitoring and threat detection capabilities.
+
+
+a. The system developed during the internship included two main components:
+   -> An automated route planning model for VVIP convoys: This system integrated various technologies such as geospatial data, threat object detection, crowd management, and lane segmentation to enhance security for VVIP convoys. It provided real-time updates, secure communication, and continuous improvement measures to ensure the safety of the convoys.
+   -> An AI Border Surveillance system: This system was designed for the Indian Army and utilized by three Army commands. It incorporated object detection, people counting, and face recognition functionalities on drones, thermal cameras, and optical cameras. The system aimed to bolster security measures in border areas through advanced monitoring and threat detection capabilities.
+
+b. Similar systems to the ones described could include:
+   -> Military-grade convoy protection systems used by armed forces or security agencies in various countries.
+   -> Border surveillance systems employed by defense and security organizations worldwide, especially in regions with heightened security concerns.
+
+c. In approaching the development problem, I likely followed a systematic process that involved:
+   -> Understanding the requirements and objectives of the project.
+   -> Researching relevant technologies and methodologies for implementing the required functionalities.
+   -> Designing the architecture of the system, considering factors such as scalability, security, and efficiency.
+   -> Implementing the system using appropriate programming languages and frameworks.
+   -> Testing the system thoroughly to ensure its functionality and reliability.
+   -> Iteratively refining and improving the system based on feedback and performance evaluations.
+
+d. While developing the system, I may have encountered various challenges that led me to seek solutions on platforms like Stack Overflow. Some interesting aspects where code from Stack Overflow might have been utilized could include:
+   -> Implementing specific algorithms or techniques for geospatial data processing.
+   -> Integrating real-time communication and updating mechanisms securely.
+   -> Enhancing the efficiency and accuracy of object detection and recognition algorithms.
+
+e. Some specific instances of copy-pasting from Stack Overflow might have provided valuable learning experiences, such as:
+   -> Understanding different approaches to solving a particular problem and evaluating their effectiveness in the context of the project.
+   -> Learning about best practices and optimizations in software development, especially in areas like security and performance.
+   -> Gaining insights into the implementation details of complex algorithms or techniques that were relevant to the project's requirements.
